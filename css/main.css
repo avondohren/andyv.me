@@ -52,6 +52,12 @@ a:visited { color: #205caa; }
   text-align: center;
 }
 
+img{
+  max-width: 70%;
+  border: 1px solid black;
+  margin: 0 auto;
+  border-radius: 10px;
+}
 
 /* Layout Styles */
 /* ----------------------------------------------------------*/
@@ -67,7 +73,7 @@ a:visited { color: #205caa; }
 
 .site-desc {
   display: inline-block;
-  color: #ccc;
+  color: #8E8E8E;
   font-size: 16px;
   letter-spacing: -1px;
   position: relative;
@@ -156,6 +162,14 @@ a:visited { color: #205caa; }
   display: inline-block;
   width: 16px;
   height: 16px;
+  position: relative;
+  top: 3px;
+}
+
+.github-icon-svg2 {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
   position: relative;
   top: 3px;
 }
