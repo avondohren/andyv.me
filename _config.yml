@@ -3,7 +3,7 @@ name: Andy von Dohren
 title: Andy von Dohren
 email: avondohren@gmail.com
 description: "Web Application Portfolio"
-baseurl: ""
+baseurl: "http://andyv.me"
 url: "http://andyv.me"
 
 # Social Network settings
@@ -15,5 +15,5 @@ markdown: kramdown
 permalinks: pretty
 
 paginate: 5
-paginate_path: "blog/page:num"
+paginate_path: "page:num"
 destination: _site/blog
