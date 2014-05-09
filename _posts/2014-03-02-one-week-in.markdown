@@ -8,8 +8,6 @@ published: true
 author: "Andy von Dohren"
 ---
 
-[![CodeSchoolAdventure](http://andycodes.files.wordpress.com/2014/03/codeschooladventure.png)](http://andycodes.files.wordpress.com/2014/03/codeschooladventure.png)
-
 We have come a long way in a week. I started out not remembering the exact syntax for how to run a Ruby program. I felt a little silly, but we made it. Here is a look at some of the things we learned.
 
 We started out small. We wrote a small program to keep track of pets for a humane society. Getting pet info from the user and storing it in an array so we could search and update stored values. It was a good first program to recall the skills we had learned during our prework.
