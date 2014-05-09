@@ -4,16 +4,10 @@ layout: default
 
 <div class="home">
 
-  <h1>Blog</h1>
-  
-  <ul class="posts">
-    {% for post in paginator.posts %}
-      <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        {{ post.excerpt }}
-      </li>
-    {% endfor %}
-  </ul>
+  <p>My name is Andy von Dohren. I was a student in the inagrial class of Omaha Code School.<br /><br />
+    
+    This site is a summary of the work I have done. Please check out my project gallery, as well as my blog.<br /><br />
+
+    During my time in OCS, I was fortunate enough to publish occational guest posts on Silicon Prairie News documenting our class. Make sure you give them a read.<br /></p>
 
 </div>
