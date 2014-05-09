@@ -1,0 +1,30 @@
+---
+layout: post
+title: 'SPN: Next'
+categories: CodeSchool
+published: false
+author: "Andy von Dohren"
+---
+
+Having a client is a powerful thing. We started on a group project last week for " [SMAC! Sock Monkeys Against Cancer](http://www.smacancer.com/)". It's a local organization that makes sock monkeys for cancer patients. Their founder, Jen, went through a devastating lung cancer case with her mother, who sadly passed away last year. Her mother lived 2,000 miles away, and she wanted to give her mother something that she could keep with her during appointments and procedures that she couldn't attend.
+
+A frequent request that Jen gets is from a patient that would like a SMAC! monkey, but can't afford it due to their ongoing treatments. When these cases come up, Jen relies on her existing social media channels to find someone willing to cover the cost. She calls them 'Angels'. This process works, but is very manual and time intensive. Many patients don't realize they can request a SMAC! monkey. Once they do find a match, Jen must communicate directly with both sides to make sure the right information gets exchanged. Even though these are some of the more rewarding situations she deals with, it is a lot of work for her.
+
+Seven of us were tasked with taking some of the friction out of the process. We needed to create a new website for the SMAC! Monkey Angel Program. The site needed to allow people to request a SMAC! monkey, and display their request to people who might be willing to cover the cost for them. We divided ourselves up into specific roles for this project. Johnathon, Todd, Matt, and Lochlan were our backend developers. Britt and Yofred were front end specialists. I was the technical lead. This was the first time we had a specific focus and this many people working on a single project.
+
+Luckily we had a great client to work with in Jen. She was very excited to see what we came up with and gave us quite a bit of flexibility with how the site would look. I think we came up with a clean, informative site that really does take the friction out of the equation. With the new site, a person can request a SMAC! monkey for either themselves or on behalf of someone they know. People who see their request can share the need using the Facebook or Twitter share buttons right on the page.
+
+I'm sure everyone would like to look at what we've created. If you want to get the first look, I would like to invite you to come to [1 Million Cups](http://omaha.sites.1millioncups.com/) this Wednesday May 7th at 9am. They meet in Mammel Hall on UNO's campus and they have allowed Omaha Code School students to present our projects this week. Our team will be demoing our SMAC! Angels site. Another group of students will be showing off their recent redesign of the omawho.com website. I think both turned out pretty well, so come take a look and give us your feedback.
+
+We are less then two weeks away from graduation. It has been a whirlwind experience. Going back and looking at the first couple of sites we created, it clear we have learned a lot and come a long way. Here are a couple of events that are open to the public in the next few weeks.
+
+**Allies Workshop**  
+Monday May 12, 6:00 - 8:00 pm  
+The Allies Workshop was designed by the  [Ada Initiative](https://www.facebook.com/pages/Ada-Initiative/265625200154983) "to support women in their workplaces and communities". Andrew and Zedeka will be conducting their own variation of the workshop. They will discuss allyship as it relates to gender, but also explore race, class, color, ability, identity, and orientation. There is a cost to this course, so check out the [Facebook](https://www.facebook.com/events/1401407063473179/) page for more information.
+
+**Graduation Open House / Demo Night**  
+Friday May 16th, 4:30 - 7:30 pm  
+This event will take place immediately after we graduate from Omaha Code School. Students will be on hand to show off some of their group or individual projects they have worked on in class. This will be the best opportunity to see how far we have come in 12 weeks.
+
+ 
+

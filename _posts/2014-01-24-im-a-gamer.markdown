@@ -1,0 +1,20 @@
+---
+layout: post
+title: I'm A Gamer
+categories: CodeSchool
+status: publish
+type: post
+published: true
+author: "Andy von Dohren"
+---
+
+Board games are awesome. If you have not played games with people around a table lately, you really should. Playing games like Ticket to Ride, Takenoko, Smallworld, or Guillotine are an awesome way to spend an evening with family or friends. Better yet, they make you think. These games are not random chance. They make you weigh options and strategize about potential outcomes.
+
+All of these games have similar game mechanics. You are competing, each player is trying to maximize their own position. You are given a problem that must be solved. There may be several "correct" answers. Problems can not be solved in a single action. Each option has a direct impact on what you do next. Sometimes, you start down one path, only to get blocked and have to find another way.
+
+These dynamics remind me of software development. It can be frustrating at times. You might have to scrap what you are working on and start over. Sometimes your decision to use a certain data type removes options later on. But when you find the right combination you come out feeling like the winner.
+
+As class begins, I'm sure I will offer to teach board games to my classmates. It has helped me tremendously and it's a lot of fun.
+
+If you are interested in getting involved with gaming, a great place to start is the [Table Top YouTube channel](http://www.geekandsundry.com/shows/tabletop) by [Geek and Sundry](http://www.geekandsundry.com). Host Wil Wheaton (of Star Trek and Big Bang Theory fame) introduces a game and walks through the rules. After that, he sits down with 3 friends and plays the game together. Some players are experienced, some are not. All come out learning something new and having had a good time.
+

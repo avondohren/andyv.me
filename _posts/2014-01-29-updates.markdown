@@ -1,0 +1,30 @@
+---
+layout: post
+title: Updates
+categories: CodeSchool
+status: publish
+type: post
+published: true
+author: "Andy von Dohren"
+---
+
+Wow. There is a lot going on right now. Here is a quick summary.
+
+We are 26 days away from starting Omaha Code School(OCS).
+
+I found an affordable MacBook (Thanks everyone who helped find one for me).
+
+Our prework is having us jump into HTML and CSS basics. Next up will be some Ruby.
+
+Several of my classmates are still [raising funds](http://omahacodeschool.com/fundraising_campaigns). Please help them out if you can.
+
+I'm not the only student blogging about my experience. Check what [other students are saying about OCS](http://omahacodeschool.com/student_blogs).
+
+OCS has secured a location at Midtown Crossing to hold the class. Read more about it on [Omaha.com](Omaha Code School). They are looking for some used furniture (couches, chairs, desks) to help furnish the space. If you have anything, send [@OmahaCodeSchool](https://www.twitter.com/OmahaCodeSchool) a tweet to let him know.
+
+So far, my experience blogging has been phenomenal. In the past week, I've had over 500 page views. I'm also working on reaching a larger audience once the class begins. More on this to come!
+
+Overall, I am really excited about this opportunity. Everything that has happened since I signed up for OCS has reaffirmed my decision to go for it.
+
+Follow this blog to get regular updates about what is going on. I'm shooting for 3 blogs a week, based on what is going on.
+

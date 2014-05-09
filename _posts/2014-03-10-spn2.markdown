@@ -1,0 +1,28 @@
+---
+layout: post
+title: SPN2
+categories: CodeSchool, SiliconPriarieNews
+status: private
+type: post
+published: false
+author: "Andy von Dohren"
+---
+
+We've come a long way in the first two weeks. We started out small. Only coding in Ruby on the command line. Our first assignment was to write a small program to keep track of pets for a humane society. We used a concept called pair-programming, and I got to work with Cara on this assignment. We read in pet information from the user and stored it in an array so we could search and update stored values. It was a good first program to recall the skills we had learned during our prework.
+
+Wednesday we hit our first wall. Sumeet wanted us to score a game of bowling. Matt and I had a really hard time figuring out what classes we needed. It was also the first program we tried to write using RSPEC and Test Driven Development. That is where you write a series of small tests and then write the code needed to get those tests to pass. We ended up having such a hard time with the assignment that we had to skip testing and just try to get it working. This was by far the hardest program we had during the week, but we learned a lot even though we weren't completely successful.
+
+Then it clicked. Our homework on Thursday was to write a Stock Portfolio application. We continued our Test Driven Development, and this time it just made sense. I partnered with Kaitlyn for this assignment. We were able to cruise through the assignment so quickly our instructor had to come up with more features for us to work on. It was an awesome feeling.
+
+To wrap up the week, we got a surprise lecture about how we should keep up our physical appearance. Sumeet informed us that we would be implementing a business casual dress code. The entire class had panicked looks on their faces. Luckily, he was joking. He couldn't even keep a straight face through the whole thing. We ended up getting our awesome new hoodies, and eating some custom eCreamery ice cream the folks at Interface School sent over. All the flavors were named after development skills. It was pretty cool.
+
+Our second week brought many challenges. We switched from command line to web-based projects. To get our websites up and running, we used a gem called Sinatra. Figuring out routes and embedded ruby was difficult at first, but we're getting the hang of it.
+
+We also started to learn about APIs. If you're unfamiliar with that term, it stands for Application Programming Interface. Essentially, some developers offer open communication channels to look up information online. Common APIs include stock quotes and weather information. We used a service from themoviedb.org to build our own movie website. We built web pages on demand with the information retrieved through the API. This was the first project I could really show off to friends and family.
+
+Thursday night Sumeet decided that we needed a little break. We walked down to Saints Pub and grabbed some drinks and appetizers. It was a great opportunity to just talk and get to know each other. Johnathon, Lochlan, Brandon, Abby and I ended up staying pretty late. It was a good break from the grind of class, and good to get to hear stories that we wouldn't hear from each other in class.
+
+On Friday, March 14th, from 4:30 to 7:30pm, Omaha Code School is hosting an open house in our space at Midtown Crossing. It is an opportunity for our school to introduce ourselves to the community and answer any questions that people have. I will be there and would love the chance to meet with you.
+
+The first two weeks have come and gone. We have learned a lot, and the firehose isn't letting up any time soon. Make sure you follow along on my blog and feel free to ask me any questions you might have on twitter.
+

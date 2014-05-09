@@ -1,0 +1,33 @@
+---
+layout: post
+title: "SPN4: Wanna See What We've Learned?"
+categories: CodeSchool
+status: published
+type: post
+published: false
+author: "Andy von Dohren"
+---
+
+Six weeks, officially half way. It feels like we have been here 3 months already, but at the same time like we just started. Long days are starting to catch up with me. I can hardly keep track of the days of the week anymore. My language has changed from English to a weird set of acronyms and terminology I had not heard until recently. I literally code all day, over meals, and even dream about code. But this is what I signed up for, and I'm having a blast.
+
+We had the opportunity to meet with a couple of really talented people. The  [Flywheel](http://getflywheel.com/) team came down and talked about how they make WordPress hosting easy. Their co-founder,  [Dusty Davidson](https://twitter.com/dustyd), gave us his Top Five tips for being truly successful. We learned about some of the problems they face, and how they make plans to overcome them. We also heard from  [Lemonly](http://lemonly.com/) co-founder  [John Meyer](https://twitter.com/johntmeyer). They turn data into infographics. It was really neat to see how their problems differed from the other speakers we have heard from and the unique ways in which they overcome geographic problems within their companies.
+
+We've begun shifting our time to projects, which is a kind way of saying we are really busy. In week 5 we completed our first group project. I was teamed up with  [Car](https://twitter.com/CaraHeacock)a Heacock and  [Matt Hovanec](https://twitter.com/Matt_Hova) for this one. The project was completely open ended, so we could do whatever we wanted. After some brainstorming, we came across the idea of doing a wiki. We started with some wire frames, created a feature list, assigned responsibilities, and got to work. Here were a couple of our top features.
+
+- Articles have a history stored as many updates.
+- Admins can '_roll-back'_ an article to a previous update.
+- Updates are written using the  [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) format, giving the author freedom to organize, format, add links and pictures.(Gem  [RedCarpet](https://github.com/vmg/redcarpet))
+- URL should be human readable, not just a bunch of ID numbers. (Gem  [FriendlyID](https://github.com/norman/friendly_id))
+
+I was given the task of developing everything needed for an article on the wiki. This involved the article itself, a way to store many updates, and categories. At first this seemed pretty challenging. We knew how to update a single object, but this was 3 separate objects. After some time trying to figure it out on my own, Sumeet told me about ' [_accepts\_nested\_attributes\_for_](http://apidock.com/rails/v3.2.13/ActiveRecord/NestedAttributes/ClassMethods/accepts_nested_attributes_for)'. This feature saved me a ton of work. It essentially allowed me to create a new article, and prompt the user for category and update information at the same time. It really does seem like magic, even though we all know better than to believe that.
+
+Lectures were light all week to give us time to complete our projects, so by thursday we were approaching having a working product. Matt had got users setup with authentication and session management. Cara hit the front-end hard. She put together a sweet CSS to make our pages look nice.
+
+When we are working on projects, we have daily  [SCRUM](http://en.wikipedia.org/wiki/Stand-up_meeting) meetings in the morning. If you are unfamiliar with that term, it just means we go around the room and talk about what we accomplished in the past day, and what we hope to accomplish the rest of the day. It really helps outline what you need to get done. Since we were working on Thursday, my goal for the day was to break our application --- I succeeded. I acted like I had no idea what I was doing on our site. Clicking on things randomly and on pages with no context to my action. I found that we had broken links, incorrect links, form inconsistencies, and style problems. We wrote down everything we found and divvied up the work again. By Friday morning we had the whole thing running on  [Heroku](https://www.heroku.com/) and working well.
+
+On Friday afternoon, we presented  [Omaha Code School Wiki](http://project-ocs-wiki.herokuapp.com/) to the class. We got to demo the app, and talk about one thing we did in code that we thought other people could use. Everyone seemed to like it. As we watched the other groups' presentations, I learned a lot about what they had done. That weekend, we went back and refactored some of our project to incorporate what the other teams had taught us, and we're pretty proud of the outcome.
+
+Last week was very challenging. We started learning about  [JavaScript](http://en.wikipedia.org/wiki/JavaScript)(JS) and  [AJAX](http://en.wikipedia.org/wiki/Ajax_%28programming%29). This was a fundamental shift in the way websites work for me. I always thought simplistically. Servers send HTML to a browser and it is displayed to the user. JS adds another very powerful layer to that, allowing a website to be modified directly in the browser. It's a lot to take in, especially after everything else we have already learned, but it's starting to make sense.
+
+This week we start our first individual project. We need to incorporate a complex database relationship, AJAX calls, and a great front end. It's not going to be easy, and we only have a week to do it in. Hopefully we can put together all of the techniques we have learned to make something worth showing off on our Demo Day in May. Wow, that's only six weeks away.
+

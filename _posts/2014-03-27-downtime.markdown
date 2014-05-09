@@ -1,0 +1,22 @@
+---
+layout: post
+title: Downtime
+categories: CodeSchool
+status: publish
+type: post
+published: true
+author: "Andy von Dohren"
+---
+
+We work hard at Omaha Code School. We show up every morning at 9, and sometimes don't go home until 8pm, then go home and work some more. Throughout the day we need small breaks to keep our mind fresh and give our minds a break. I thought I would elaborate on some of the things we do during our down time.
+
+A bunch of us have put together a puzzle. We've officially branded it "Puzzle Club." Our first puzzle was a picture of a cat coming out onto some grass. We worked on it every day over lunch until it was done. Each person who wanted to contributed their own part. Johnathan is supposed to be brining in another puzzle for us to work on, but he keeps forgetting. Hopefully we will have another one to work on soon.
+
+By far the most popular way to waste some time is an online game called 2048. It's one of those mesmerizingly simple games that you get hooked on. If you haven't played it before, you have numbered tiles. You have to slide them back and forth. If 2 tiles with the same value collide, they combine and the number doubles. The goal is to get a tile with the value 2048 on it. So far Cara is the only one to have made that happen, but we are all desperately trying to be the next.
+
+Sumeet likes to play chess on his small breaks. He plays speed chess online in quick little 3 minute games. He says that he plays a pretty unconventional game when going fast and because of that his ranking has dropped quite a bit. He jokes that he gets upset when he gets a draw because he's probably playing against a 6-year-old, and he should be able to beat a kid.
+
+My personal favorite is flying quad-copters. Omaha Code School is meeting in a 8,000 square foot retail space with 18 foot ceilings. That makes it the perfect space to fly small, light-weight remote control vehicles. Brandon introduced me to the Syma X1. It's a cheap, $30, quad-copter that comes completely ready to run. It's remarkably stable. Once you get a little practice, you can zip from one end of our space to the other pretty quick. We have even started to stack objects and practice flying between them. It's the perfect break activity since you have to get back to work once the battery dies.
+
+As you can see, even though we put in a lot of work, we also find time to have a good time. I would love to know some of your favorite activities for when you need a little break. Leave a comment below and we can debate which is best.
+

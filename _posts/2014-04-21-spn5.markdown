@@ -1,0 +1,26 @@
+---
+layout: post
+title: spn5
+categories: CodeSchool
+status: draft
+type: post
+published: false
+author: "Andy von Dohren"
+---
+
+Wow. What a hectic two weeks. We completed our first individual individual projects, and I have had a hard time keeping up.
+
+The project requirements were pretty open ended. Sumeet gave us some basic requirements to make sure we use the skills we were learning. Other than that, we could work on anything we wanted. There were social networks, photography galleries, video games, and automated bar tenders. Everyone's personalities started to come through, and you could tell everyone was putting in a little extra effort to get their ideas off the ground.
+
+I came into the class with a project I really wanted to do, and luckily it fit the project requirements. My wife helps coordinate the children's program at the [Acts2 Church](http://www.a2gretna.org) in Gretna, NE. They needed a system to help check in kids for events. I wanted to help out and see if I could create something for them. Since I had an actual client, I was able to practice gathering requirements by sitting down with them and getting a list a features. I also was able to lay out some of my ideas about what information would be be tracked, and how everything would interact. Once we understood the scope of the project, I got to work.
+
+One of their key requirements was a way to email families during the week. They wanted to recap the lesson the kids heard on Sunday and offer activities to do to reinforce what they learned. The whole idea is that church is not about Sunday mornings. We need to support each other during the week too. Fortunately, we had just learned how to use SendGrid to send emails from Heroku. So after a little configuration, I got everything up and running. I'm excited to see what this allows them to do.
+
+Eventually, our projects started to look like real web applications. We had layouts with thought out color pallets, images, and flow started appearing on our computer screens. At this point we really started to get excited about what we were seeing other people create. By the end of the week, we were trying get everything working so we could present to the rest of the class. We spent a couple hours watching everyones demos, and I was really impressed by the diversity of ideas we got to see. After we finished, we wen't out for drinks to celebrate what was a very long week.
+
+When we got back to class, we concentrated on refactoring our code. Thats when you go back and make sure everything is as efficient as possible and looked as good as it can. We were given a long list of things to look for. Everything from using CSS Sprites, to making sure we documented all of our custom methods. As we kept improving our projects, you could see it was making a difference. AJAX calls saved unnecessary page loads, database queries were kept to a minimum. My site started to feel snappy and responsive.
+
+Everyday was a trial of perseverance. I kept running into issue after issue. I couldn't get my javascript to load, then I had a very complex database query I wanted to run in a single command, but it just wouldn't work. Luckily Omaha Code School is setup to help. Sumeet is always available for questions. Abby, our Teacher's Assistant, always has an idea or two to try, and we always try to help out our classmates. You can't turn around without running into someone willing to help.
+
+Next week is project week again. Who knows what we'll be doing this time. Sumeet said he has some ideas he think's we'll like. Hopefully we keep learning and putting that new knowledge to work. I'm sure it will give me something to talk about next time.
+

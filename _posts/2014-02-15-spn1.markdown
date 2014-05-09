@@ -1,0 +1,58 @@
+---
+layout: post
+title: SPN1
+categories: CodeSchool
+status: private
+type: post
+published: false
+author: "Andy von Dohren"
+---
+
+Hello. My name is Andy von Dohren. I'm a student in the inaugural class of Omaha Code School. The folks at Silicon Prairie News have been kind enough to let me help cover what we are doing and learning in class. I will be writing a short post about every other week to catch up and let you know what has been going on. If you want to hear more detail, I will also be posting more frequent posts to [my personal blog](http://andycodes.wordpress.com). Now lets get down to business.
+
+[Omaha Code School](http://www.omahacodeschool.com) is the first course of it's kind in Omaha. There are lots of similar courses in larger cities across the nation, such as San Francisco and New York. Sumeet Jain, our lead instructor, lived in SF until last year. He even taught a course like what we will be doing at the General Assembly last summer. After he moved to Omaha, he and his cousin saw an opportunity to do something similar here. They founded Omaha Code School last fall and began accepting applications. There were over 70 applicants from the US and across the world. Eventually the applicant pool was whittled down to 14, the inaugural class.
+
+When I tell people I'm attending Omaha Code School, I get a lot of questions. So this post will attempt to answer some of the more common ones. If you have others, let me know and I'll try to answer it for you.
+
+<!--more-->
+
+* * *
+
+**What is Omaha Code School?**  
+Omaha Code School is an intensive 12 week program that intends to teach 14 willing students the technical skills needed to land a job in web development. Intensive is kind of an understatement in this case. The class is 7 days a week, for 8-10 hours a day. Boot camp style.
+
+That's the book answer, but I'm probably the wrong person to ask. See, I haven't actually started. It's hard to answer what something is when you haven't seen or experienced it for yourself.
+
+**What will you be learning?**  
+There are a lot of different things we will be learning. They fall into two categories. Soft skills, and hard skills. Hard skill are the actual technologies. Things like HTML5, Ruby on Rails, JavaScript, JQuery, and many more. More important are the soft skills we will learn. Test driven development, GIT, version control, and pair-programming, among others. To sum up, we are going to learn more in 12 weeks than any other period of time in our lives.
+
+**What did you do before you signed up?**  
+I was an Information Security Analyst at Mutual of Omaha Insurance Company. The work was good and I felt like I make a difference. I worked with identity management systems to make sure everyone had access to what they needed, but nothing more. I worked there for almost 6 years.
+
+**Why now?**  
+This is a once in a lifetime opportunity. Before you say otherwise, it is for me. I'm 29, married, and own a home. The next logical life event is to have children. Once that happens, quitting your job and going 12 weeks without pay won't be an option.
+
+**When does it start?**  
+Class begins February 24th and runs through May 16th.
+
+**Where is the school located?  
+**OCS is temporarily making use of a space in Midtown Crossing. It's a pretty large space, so they are trying to get other groups to meet there too.
+
+**Do you know who you will be working with?**  
+No. I have never met anyone involved with this program before. Thats part of why it is awesome. I will get to grow my network. They even have a group of people put together to help mentor the students as they progress through the course. We may occasionally go on a "field trip" to meet with people in the industry and learn from their experience.
+
+My first blog post was just three weeks ago. In that time, I have 22 new followers on Twitter, 1,074 blog views, an interview request, and numerous retweets and shares. Most of these numbers represent people I have never met before. I'm not too worried about not knowing anybody. The people I have interacted with so far are awesome, and I know it's just going to get better.
+
+**What happens after the class is over?**  
+That is the question. There is no job at the end of the horizon waiting for us, no interviews lined up, and no idea of what is waiting for us. This is seriously scary. I don't do things without knowing what's next. I have planned out to this point in my life, and I don't have any regrets. All I know is that I couldn't stop thinking that this is what I am supposed to do. Hopefully there will be an opportunity waiting for me on the other side.
+
+**What has surprised you so far?**  
+The amount of support my classmates and me have received so far is surprising. Friends and family are on board. Omaha Code School has helped make connections for those of us that need help paying the tuition cost. They're even trying to get us cheap MacBooks for class.
+
+**What still needs to be done?**  
+We have homework already. There are various web tutorials and readings that we need to complete before class begins. This way we can gloss over some of the basics, and concentrate on learning new skills. We have already been working for a couple weeks, but will have spent approximately 55 hours to complete everything. Not a small task.
+
+* * *
+
+Hopefully that answers some of your questions. I'm excited to see what comes next. I guarantee it's going to be an adventure.
+

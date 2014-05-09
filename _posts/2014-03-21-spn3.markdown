@@ -1,0 +1,28 @@
+---
+layout: post
+title: SPN3
+categories: CodeSchool
+status: draft
+type: post
+published: false
+author: "Andy von Dohren"
+---
+
+Four weeks. It's crazy to think that we are already a third of the way through Omaha Code School.  We've come a long way since my last update. Let me get you up to speed with what we are doing.
+
+Up until this point, our programs didn't have any persistence. That means when we shut down the program, any information we had entered was destroyed and we had to re-enter it the next time we started up again. This was a pain, so Sumeet taught us about storing data in text files. That way we could import the values the next time the program ran. This worked, but it was only marginally better. Transposing values between our class objects and a comma-separated file and back was difficult, and prone to mistakes. We thought there had to be a better way, and indeed there was.
+
+We learned about Structured Query Language, or SQL. It defines a standard way of interfacing with a database. We learned how databases are filled with tables, think Microsoft Excel spreadsheet. You can store any kind of data in a table, and they stay organized. Each row in the table corresponds to a unique instance of an object, and each column corresponds to a specific attribute describing that object. We used SQLite, and practiced forming raw SQL queries and sending them into the database. Then we learned about ActiveRecord and all the methods it adds to Ruby to make our lives even easier.
+
+After we got the hang of it, we were given our first real project. We needed to create a blog, only using Ruby, Sinatra, and SQLite. We each had to come up with our own feature list. We had to decide if we wanted to integrate with an external API, allow comments, or integrate email alerts. So even though we were all working on a blog, they were each unique and created by us. When we got started, I think we were all pretty intimidated by this assignment. It was a lot to take on compared to the other assignments. We spread out, and got to work.
+
+It didn't take long before I found a groove. I found myself recalling everything that we had learned and biting off a piece at a time. I eventually had a database with six tables to keep track of everything from users to posts. I even came up with some polls, so I could ask my readers questions and have them pick from a series of canned responses. It took three days, but I ended up creating a blog that looked and functioned like I had planned.We also got to see some of our classmates work. I was really impressed how far we had taken such an open-ended assignment. We all had fun and made it our own.
+
+That night OCS hosted an Open House. People from all over the community turned out to checkout what we we're doing and offer their support. It was a packed house, and I met a lot of really cool people. We talked about everything from what their background was, to what we were working on in class. I even got to show a couple of them the blog that I had been working on. It was a great opportunity to meet new people, and hear what they are doing in their various roles in our web development community.
+
+Then we got to what we had all come here for, Rails. We left behind the simplistic ways of Sinatra and SQLite, and picked up a full featured framework(Rails) and robust database(PostreSQL). At it's core, Rails is a set of rules. These rules force you to build your application a very particular way. Rails is also stubborn. If you don't follow the rules, Rails refuses to work. In exchange for dealing with the rules, you get the benefit of using hundreds of helper functions that they provide. So if you give a little, you get a little. I was a little surprised how quickly we got going. I had tried to learn Ruby on Rails once before, and could never seem to get any traction. This time, it seemed to come naturally.
+
+I have formed a team with Matt Hovanec and Cara Heacock. We are just starting our next project, and this time we get to pick anything we want to do and create it. We decided to make a Omaha Code School wiki. We hope that we will use it to document some of our repositories and publish links to our sites once we deploy them onto the internet. Hopefully I will be able to share the link with you in my next article so you can take a look at what we have been working on.
+
+Until then, I need to get back to work. If you want to get more frequent updates, check out my blog, andycodes.wordpress.com. Or, if you have any questions, shoot me a message on twitter.
+

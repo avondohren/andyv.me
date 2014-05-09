@@ -1,0 +1,19 @@
+# Site settings
+name: Andy von Dohren
+title: Andy von Dohren
+email: avondohren@gmail.com
+description: "Web Application Portfolio"
+baseurl: ""
+url: "http://andyv.me"
+
+# Social Network settings
+github : avondohren
+twitter : andyvondohren
+
+# Build settings
+markdown: kramdown
+permalinks: pretty
+
+paginate: 5
+paginate_path: "blog/page:num"
+destination: _site/blog
