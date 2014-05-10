@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SPN Guest Post: Halfway Through'
-categories: CodeSchool, SiliconPriarieNews
+categories: [CodeSchool, SiliconPriarieNews]
 status: publish
 type: post
 published: true

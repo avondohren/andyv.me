@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SPN2
-categories: CodeSchool, SiliconPriarieNews
+categories: [CodeSchool, SiliconPriarieNews]
 status: private
 type: post
 published: false
