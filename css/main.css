@@ -52,11 +52,16 @@ a:visited { color: #205caa; }
   text-align: center;
 }
 
-img{
+img {
   max-width: 70%;
   border: 1px solid black;
   margin: 0 auto;
   border-radius: 10px;
+}
+
+p {
+  padding: 5px;
+  margin-bottom: 5px;
 }
 
 /* Layout Styles */
@@ -205,6 +210,66 @@ img{
   color: #818181;
 }
 
+.home img#profile {
+  width: 21%;
+  float: left;
+  margin: 10px 30px 5px 10px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+.home ul#quad{
+  display: block;
+  width:90%;
+  margin: 20px auto;
+}
+
+.home #quad li {
+  line-height:1.5em;
+  float:left;
+  display:inline;
+  width:25%;
+  text-align: center;
+}
+
+/* Resume styles */
+/* ----------------------------------------------------------*/
+
+div#download img {
+  width: 28px;
+  float: left;
+}
+
+div#download span {
+  display: inline-block;
+  padding: 5px;
+}
+
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 18.0px; font: 22.0px 'Avenir Next'; color: #606060}
+p.p2 {margin: 0.0px 0.0px 10.0px 0.0px; text-indent: 18.0px; font: 9.0px 'Avenir Next'; color: #7a7a7a}
+p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px 'Avenir Next'; color: #606060; min-height: 19.0px}
+p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px 'Avenir Next'; color: #606060}
+p.p5 {margin: 0.0px 0.0px 10.0px 0.0px; font: 10.0px 'Avenir Next'}
+p.p6 {margin: 0.0px 0.0px 10.0px 0.0px; font: 10.0px 'Avenir Next'; min-height: 14.0px}
+p.p7 {margin: 0.0px 0.0px 0.0px 0.0px; font: 8.0px 'Avenir Next'; color: #7a7a7a}
+p.p8 {margin: 0.0px 0.0px 10.0px 0.0px; font: 10.0px 'Avenir Next'; color: #7a7a7a}
+span.s1 {letter-spacing: 0.0px}
+span.s2 {letter-spacing: 0.0px; color: #7a7a7a}
+span.Apple-tab-span {white-space:pre}
+
+ul.quad{
+  display: block;
+  width:60%;
+  margin: 20px auto;
+}
+
+.quad li {
+  float:left;
+  display:inline;
+  width:25%;
+}
+
+li.p5 {margin: 0.0px 0.0px 10.0px 0.0px; font: 10.0px 'Avenir Next'}
 
 /* Post styles */
 /* ----------------------------------------------------------*/
@@ -264,9 +329,6 @@ img{
   font-style: italic;
   margin: 30px 0;
 }
-
-.post-content ul,
-.post-content ol { padding-left: 20px; }
 
 .post pre,
 .post code {
