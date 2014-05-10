@@ -8,7 +8,7 @@ published: true
 author: "Andy von Dohren"
 ---
 
-[![CodeSchoolAdventure](http://andycodes.files.wordpress.com/2014/03/codeschooladventure.png)](http://andycodes.files.wordpress.com/2014/03/codeschooladventure.png)A lot has been happening at Omaha Code School. Looking back, I can hardly believe we've only been class 3 1/2 weeks. Let's recap and make sure everyone is up to speed with where we are at.
+A lot has been happening at Omaha Code School. Looking back, I can hardly believe we've only been class 3 1/2 weeks. Let's recap and make sure everyone is up to speed with where we are at.
 
 OCS is structured in a very deliberate way. Learn the basics, and then build on top with more advanced topics. During the first week, we learned Ruby. It's a programming language that prides itself with having readable code. It wasn't hard to learn, and we were writing our first command line programs in no time.
 

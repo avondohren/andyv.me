@@ -14,6 +14,6 @@ twitter : andyvondohren
 markdown: kramdown
 permalinks: pretty
 
+# Paginate Info
 paginate: 5
-paginate_path: "page:num"
-destination: _site/blog
+paginate_path: "/blog/page:num"

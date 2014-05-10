@@ -8,8 +8,6 @@ published: true
 author: "Andy von Dohren"
 ---
 
-[caption id="attachment\_230" align="alignright" width="300"] [![Grain & Mortar welcomes Omaha Code School](http://andycodes.files.wordpress.com/2014/03/gm_welcome1.jpg?w=300)](http://andycodes.files.wordpress.com/2014/03/gm_welcome1.jpg) Grain & Mortar welcomes Omaha Code School[/caption]
-
 Field trips are great. You get to experience what you have been learning about in class. Yesterday, our class got to visit [Grain & Mortar](http://grainandmortar.com/). They are a design studio based out of the [Mastercraft](http://themastercraft.com/) building in north downtown Omaha. We were greeted with smiles as soon as we walked in the door. As we made our way through the studio, you knew they have a good eye for design and setting a mood. There were tons of industrial elements spread around the room that really fit in well.
 
 As we sat down to eat, I got to talk with Kristin and Miranda. They talked a little bit about their space and how it evolved over the last several years. It turned out that their break room used to be the old boiler room. It was brick with old pipes hanging from the ceiling. Reclaimed wood adorned the cabinetry. We were all pretty jealous that they get to work there everyday. As our conversation continued, we started asking questions about how they work. Turns out they create every website they build by hand, which is pretty impressive.

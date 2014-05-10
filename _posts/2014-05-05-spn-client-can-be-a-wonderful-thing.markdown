@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SPN Guest Post: A Client can be a Wonderful Thing'
-categories: CodeSchool, SiliconPriarieNews
+categories: [CodeSchool, SiliconPriarieNews]
 status: publish
 type: post
 published: true
