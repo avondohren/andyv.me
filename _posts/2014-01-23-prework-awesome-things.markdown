@@ -7,7 +7,7 @@ author: Andy von Dohren
 
 Last night I started the pre-work that I need to complete before class begins. I won't bore you with all of the details, but I was amazed by what modern browsers can do. 
 
-Real-time feedback that websites like [dash.generalassemb.ly](https://dash.generalassemb.ly), [codecademy.com](codecademy.com), and [codeschool.com](https://www.codeschool.com/) are able to provide is fantastic! I love typing in one part of the screen, and seeing my changes immediately reflected in the side panel. It really helps you see the differences between the different tags and values. If you ever want to start picking up some basic web skills these resources are a great place to start.
+Real-time feedback that websites like [dash.generalassemb.ly](https://dash.generalassemb.ly), [codecademy.com](http://codecademy.com), and [codeschool.com](https://www.codeschool.com/) are able to provide is fantastic! I love typing in one part of the screen, and seeing my changes immediately reflected in the side panel. It really helps you see the differences between the different tags and values. If you ever want to start picking up some basic web skills these resources are a great place to start.
 
 It has been a couple of years since I first learned some basic HTML. Since then, not only have browsers improved, so has the HTML language itself. I remember how creating images with rounded corners was a complete pain. Now, all you have to do is provide a \_border-radius\_ attribute, and it's done for you. Now all we need is for everyone to upgrade from IE6.
 
