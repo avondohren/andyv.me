@@ -77,14 +77,16 @@ p {
 }
 
 .site-desc {
-  display: inline-block;
+  display: block;
   color: #8E8E8E;
   font-size: 16px;
   letter-spacing: -1px;
   position: relative;
   z-index: 1;
-  top: 42px;
-  left: -120px;
+  top: -15px;
+  left: 67px;
+  clear: both;
+  margin-bottom: -10px;
 } 
 
 .site-title,
@@ -98,6 +100,7 @@ p {
   line-height: 56px;
   position: relative;
   z-index: 1;
+  clear: both;
 }
 
 .site-nav {
@@ -245,31 +248,23 @@ div#download span {
   padding: 5px;
 }
 
-p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 18.0px; font: 22.0px 'Avenir Next'; color: #606060}
-p.p2 {margin: 0.0px 0.0px 10.0px 0.0px; text-indent: 18.0px; font: 9.0px 'Avenir Next'; color: #7a7a7a}
-p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px 'Avenir Next'; color: #606060; min-height: 19.0px}
-p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px 'Avenir Next'; color: #606060}
-p.p5 {margin: 0.0px 0.0px 10.0px 0.0px; font: 10.0px 'Avenir Next'}
-p.p6 {margin: 0.0px 0.0px 10.0px 0.0px; font: 10.0px 'Avenir Next'; min-height: 14.0px}
-p.p7 {margin: 0.0px 0.0px 0.0px 0.0px; font: 8.0px 'Avenir Next'; color: #7a7a7a}
-p.p8 {margin: 0.0px 0.0px 10.0px 0.0px; font: 10.0px 'Avenir Next'; color: #7a7a7a}
-span.s1 {letter-spacing: 0.0px}
-span.s2 {letter-spacing: 0.0px; color: #7a7a7a}
-span.Apple-tab-span {white-space:pre}
-
-ul.quad{
-  display: block;
-  width:60%;
+div.paper {
+  max-width: 500px;
   margin: 20px auto;
 }
 
-.quad li {
-  float:left;
-  display:inline;
-  width:25%;
-}
-
-li.p5 {margin: 0.0px 0.0px 10.0px 0.0px; font: 10.0px 'Avenir Next'}
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; text-indent: 18.0px; font: 22.0px 'Avenir Next'; color: #606060}
+p.p2 {margin: 0.0px 0.0px 10.0px 0.0px; text-align: center; text-indent: 18.0px; font: 9.0px 'Avenir Next'; color: #7a7a7a}
+p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px 'Avenir Next'; color: #606060}
+p.p4 {margin: 0; padding: 0 0 5px 0; font: 10.0px 'Avenir Next'}
+p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 8.0px 'Avenir Next'; color: #7a7a7a}
+p.p6 {margin: 0; padding: 0 0 0 5px; font: 10.0px 'Avenir Next'; color: #7a7a7a}
+p.p7 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px 'Avenir Next'; color: #606060; min-height: 19.0px}
+span.s1 {letter-spacing: 0.0px}
+span.s2 {letter-spacing: 0.0px; color: #7a7a7a}
+span.s3 {letter-spacing: 0.0px; color: #000000}
+span.s4 {font: 10.0px 'Avenir Next'; text-decoration: underline ; letter-spacing: 0.0px; color: #011a99}
+span.Apple-tab-span {white-space:pre}
 
 /* Post styles */
 /* ----------------------------------------------------------*/
